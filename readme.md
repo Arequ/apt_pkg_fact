@@ -43,7 +43,7 @@ apt_pkgs_hash => [
 ]
 ```
 
-array output example
+array output sample output:
 ```bash
 apt_pkgs_array => [
   [
